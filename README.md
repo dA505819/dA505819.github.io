@@ -7,5 +7,8 @@ The website will provide you with all the details of mine.
 Hi, I am Dhruv Aggarwal.
 
 ```
-Provides you with all the information.
+Gives you all the information.
 ````
+##Feedback
+
+Hope you give a feedback.
