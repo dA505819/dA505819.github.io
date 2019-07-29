@@ -1,6 +1,6 @@
 # Website
 
-The website will provide you with all the details of mine.
+The website will provide you with all the details.
 
 ## Basic Details 
 
