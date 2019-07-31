@@ -11,4 +11,4 @@ Gives you all the information.
 ````
 ## Feedback
 
-Hope you give a feedback.
+Hope you give a feedback
