@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'DHRUV AGGARWAL'; /* The text */
+var txt = 'Dhruv Aggarwal'; /* The text */
 var speed = 50; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
