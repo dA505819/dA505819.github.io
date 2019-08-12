@@ -11,7 +11,7 @@ Gives you all the information.
 ````
 ## Feedback
 
-Hope you give a feedback
+Hope you also give a feedback.
 
 
 ## (The website is in heavy development phase.)
