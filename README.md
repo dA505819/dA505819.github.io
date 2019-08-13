@@ -14,5 +14,7 @@ Gives you all the information.
 Hope you also give a feedback.
 
 
-## (The website is in heavy development phase.)
+>(The website is in heavy development phase.)
 
+## License
+MIT(https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
