@@ -11,11 +11,12 @@ Lies ahead all the information.
 ````
 ## Feedback
 
-Hope you also give a feedback.
+Hope you also give a nice feedback.
 
 ````
 The website is in heavy development phase.
 ````
+Your feedback will be highly valued.
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
