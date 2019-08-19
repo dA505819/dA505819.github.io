@@ -4,10 +4,10 @@ The website will provide you with all the information.
 
 ## Basic Details 
 
-Hi, I am Dhruv Aggarwal.
+Hi, I'm Dhruv Aggarwal.
 
 ```
-Gives you all the information.
+Lies ahead all the information.
 ````
 ## Feedback
 
