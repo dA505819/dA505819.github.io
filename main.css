@@ -34,10 +34,10 @@ p.cursor::after {
 
 @keyframes blink {
   0% {
-    opacity:1;
+    opacity:.0.1;
   }
   49% {
-    opacity:1;
+    opacity:0.11;
   }
   50% {
     opacity:0;
