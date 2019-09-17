@@ -7,7 +7,7 @@ The website will provide you with all the information.
 Hi, I'm Dhruv Aggarwal.
 
 ```
-Lies ahead all the information.
+Lies ahead all the information. :blush:
 ````
 ## Feedback
 
