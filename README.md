@@ -19,5 +19,9 @@ Your feedback will be highly valued.
 The website is in heavy development phase.
 ````
 
+## Let's Connect
+
+Connecting is a great way of communicating and helping. So, hope you connect with me or we can also have a talk.
+
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
