@@ -16,7 +16,7 @@ Hope you also give a nice feedback.
 Your feedback will be highly valued.
 
 ````
-The website is in heavy development phase.
+The website is still in it's infancy state.
 ````
 
 ## Let's Connect
