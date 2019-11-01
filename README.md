@@ -21,7 +21,11 @@ The website is still in it's infancy state.
 
 ## Let's Connect
 
-Connecting is a great way of communicating and helping. So, hope you connect with me or we can also have a talk.
+Connecting is a great way of communicating and helping. So, hope you connect with me.
+
+## Want to discuss something?
+
+Any idea regarding a project, interesting facts and figures about latest technology or you can just say hi.
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
