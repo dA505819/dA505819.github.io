@@ -25,7 +25,7 @@ Connecting is a great way of communicating and helping. So, hope you connect wit
 
 ## Want to discuss something?
 
-Any idea regarding a project, interesting facts and figures about latest technology or you can just say hi.
+Any idea regarding a project, interesting facts and figures about latest technology or you can just say Hi.
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
