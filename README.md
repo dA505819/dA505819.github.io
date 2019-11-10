@@ -25,9 +25,11 @@ Connecting is a great way of communicating and helping. So, hope you connect wit
 
 ## Want to discuss something?
 
+````
 Any idea regarding a project, interesting facts and figures about latest technology
 Or
 you can just say Hi to grab a coffee☕.
+````
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
