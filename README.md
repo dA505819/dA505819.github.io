@@ -1,10 +1,10 @@
 # Website
 
-The website will provide gyou with all the information.
+Hover over the website for the information.
 
 ## Basic Details 
 
-Hi, I'm Dhruv Aggarwal.
+Hi All! I'm Dhruv Aggarwal.
 
 ```
 Lies ahead all the information. 
