@@ -1,6 +1,6 @@
 # Website
 
-The website will provide you with all the information.
+The website will provide gyou with all the information.
 
 ## Basic Details 
 
