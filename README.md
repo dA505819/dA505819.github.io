@@ -11,7 +11,7 @@ Lies ahead all the information.
 ````
 ## Feedback
 
-Hope you also give a nice feedback.
+Hope you provide with a nice feedback.
 
 Your feedback will be highly valued.
 
