@@ -21,16 +21,16 @@ The website is still in it's infancy state.
 
 ## Let's Connect
 
-Connecting is a great way of communicating and helping. So, hope you connect with me.
+Connecting is a great way of communicating and helping. So, let's connect.
 
 ## Want to discuss something?
 
 ````
-Any idea regarding a project, interesting facts and figures about latest technology
+Any idea regarding a project, discussion about interesting facts or figures & latest technology
 ````
 Or
 ````
-you can just say Hi to grab a coffee☕.
+you can just say Hi and grab a coffee☕.
 ````
 
 ## License
