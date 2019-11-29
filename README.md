@@ -21,7 +21,7 @@ The website is still in it's infancy state.
 
 ## Let's Connect
 
-Connecting is a great way of communicating and helping. So, let's connect.
+Connecting is a great way of communicating, sharing ideas and helping. So, let's connect.
 
 ## Want to discuss something?
 
