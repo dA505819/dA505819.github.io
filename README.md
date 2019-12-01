@@ -30,7 +30,7 @@ Any idea regarding a project, discussion about interesting facts or figures & la
 ````
 Or
 ````
-you can just say Hi and grab a coffee☕.
+you can just say Hi.
 ````
 
 ## License
