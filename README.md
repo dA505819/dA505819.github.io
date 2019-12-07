@@ -11,7 +11,7 @@ Lies ahead all the information.
 ````
 ## Feedback
 
-Your feedback will be highly valued. Hope you provide with a nice feedback.
+Your feedback will be highly valued. 
 
 ````
 The website is still in it's infancy state.
