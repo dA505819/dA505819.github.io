@@ -1,6 +1,6 @@
 # Website
 
-I am Dhruv Aggarwal. Hover over the website for the information.
+Hover over the website for the information.
 
 ## Basic Details 
 
