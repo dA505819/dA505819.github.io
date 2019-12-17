@@ -23,6 +23,8 @@ Connecting is a great way of communicating, sharing ideas and helping. So, let's
 
 ## Want to discuss something?
 
+Something that interests you? Let's share!
+
 ````
 Any idea regarding a project, discussion about interesting facts or figures & latest technology
 ````
