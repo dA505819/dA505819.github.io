@@ -13,10 +13,6 @@ A Technology Enthusiast.
 
 Your feedback will be highly valued. 
 
-````
-The website is still in it's infancy state.
-````
-
 ## Let's Connect
 
 Connecting is a great way of communicating, sharing ideas and helping. So, let's connect:)
