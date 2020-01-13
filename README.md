@@ -22,7 +22,7 @@ Connecting is a great way of communicating, sharing ideas and helping. So, let's
 Something that interests you? Let's share!
 
 ````
-Any idea regarding a project, discussion about interesting facts or figures & latest technology
+Any idea regarding a project, discussion about interesting facts or figures & latest technology.
 ````
 Or
 ````
