@@ -4,7 +4,7 @@ Hover over the website for the information.
 
 ## Basic Details 
 
-Hi All! I'm Dhruv Aggarwal.
+Hi Everyone! I'm Dhruv Aggarwal.
 
 ```
 A Technology Enthusiast.
