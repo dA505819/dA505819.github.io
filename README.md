@@ -1,6 +1,6 @@
 # Website
 
-Hoover over the website for the information.
+Hover over the website for the information.
 
 ## Basic Details 
 
