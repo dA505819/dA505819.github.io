@@ -19,7 +19,7 @@ Connecting is a great way of communicating, sharing ideas and helping. So, Let's
 
 ## Want to discuss something?
 
-Something that interests you? Let's collaborate and build together to help people.
+Something that interest and excites you? Let's collaborate and build together to help people.
 
 ````
 Any idea regarding a project, discussion about interesting facts or figures & latest technology.
