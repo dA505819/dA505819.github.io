@@ -9,9 +9,6 @@ Hi Everyone! I'm Dhruv Aggarwal.
 ```
 A Technology Enthusiast.
 ````
-## Feedback
-
-Your feedback will be highly valued and would be entertained.
 
 ## Let's Connect
 
@@ -28,6 +25,10 @@ Or
 ````
 you can say "Hi"👋.
 ````
+
+## Feedback
+
+Your feedback will be highly valued and would be entertained.
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
