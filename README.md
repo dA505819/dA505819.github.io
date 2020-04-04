@@ -1,4 +1,4 @@
-# Website
+# Website [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Hover over the website for the information.
 
