@@ -16,7 +16,7 @@ Connecting is a great way of communicating, sharing ideas and helping. So, Let's
 
 ## Want to discuss something?
 
-Something that interest and excites you? Let's collaborate and build together to help people.
+Something that interest and excites you? Let's collaborate and build together to help humanity.
 
 ````
 Any idea regarding a project, discussion about interesting facts or figures & latest technology.
@@ -28,7 +28,9 @@ Say "Hi"👋.
 
 ## Feedback
 
-Your feedback will be highly valued and would be entertained.
+Create an issue to suggest any improvements.
+
+Share feedback also. Your feedback will be highly valued and would be entertained.
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
