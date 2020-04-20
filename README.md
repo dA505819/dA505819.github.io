@@ -23,7 +23,7 @@ Any idea regarding a project, discussion about interesting facts or figures & la
 ````
 Or
 ````
-Say "Hi"👋.
+Say "Hi"👋!
 ````
 
 ## Feedback
