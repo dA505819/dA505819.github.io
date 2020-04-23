@@ -28,9 +28,9 @@ Say "Hi"👋!
 
 ## Feedback
 
-Create an issue to suggest any improvements.
-
 Share feedback also. Your feedback will be highly valued and would be entertained.
+
+Create an issue to suggest any improvements are also welcomed.
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
