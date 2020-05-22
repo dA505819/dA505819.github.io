@@ -1,6 +1,6 @@
 ﻿# Website [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devfolioco/react-otp-input)
 
-Hover over the website for the information.
+Hover over the website for information.
 
 ## Basic Details 
 
@@ -28,9 +28,9 @@ Say "Hi"👋!
 
 ## Feedback
 
-Share feedback also. Your feedback will be highly valued and would be entertained.
+Share feedback also. Your feedback will be highly valued.
 
-Create an issue to suggest any improvements are also welcomed.
+Create an issue to suggest any improvement.
 
 ## License
 [MIT](https://github.com/dA505819/dA505819.github.io/blob/master/LICENSE)
