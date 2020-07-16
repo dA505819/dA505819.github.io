@@ -12,7 +12,7 @@ A Technology Enthusiast.
 
 ## Let's Connect
 
-Connecting is a great way of communicating, sharing ideas and helping. So, Let's Connect:)
+Connecting is a great way of communicating, Sharing ideas and helping people. So, Let's Connect:)
 
 ## Want to discuss something?
 
