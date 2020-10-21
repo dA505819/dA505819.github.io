@@ -1,7 +1,5 @@
 ﻿# Website [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devfolioco/react-otp-input)
 
-Hover over the website for information.
-
 ## Basic Details 
 
 Hey Everyone! I am Dhruv Aggarwal.
