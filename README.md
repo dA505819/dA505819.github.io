@@ -4,7 +4,7 @@
 
 Hey Everyone! I am Dhruv Aggarwal.
 
-## Let's Connect
+## Let's Connect!
 
 Connecting is a great way of communicating, Sharing ideas and helping people. So, Let's Connect:)
 
