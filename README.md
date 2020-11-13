@@ -6,7 +6,7 @@ Hey Everyone! I am Dhruv Aggarwal.
 
 ## Let's Connect!
 
-Connecting is a great way of communicating, Sharing ideas and helping people. So, Let's Connect:)
+Connecting is a great way of communicating, Sharing ideas and helping people. Let's Connect:)
 
 ## Want to discuss something?
 
