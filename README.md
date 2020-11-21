@@ -10,7 +10,7 @@ Connecting is a great way of communicating, Sharing ideas and helping people. Le
 
 ## Want to discuss something?
 
-Something that interest and excites you? Let's collaborate and build together to help humanity.
+Something that interest and excites you? Let's collaborate and build together to help humanity and society.
 
 ````
 Any idea regarding a project, discussion about interesting facts or figures & latest technology.
