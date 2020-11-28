@@ -6,7 +6,7 @@ Hey Everyone! I am Dhruv Aggarwal from New Delhi, India🇮🇳.
 
 ## Let's Connect!
 
-Connecting is a great way of communicating, Sharing ideas and helping people.
+Connecting is a great way of communicating, Sharing ideas and Helping people.
 
 ## Want to discuss something?
 
