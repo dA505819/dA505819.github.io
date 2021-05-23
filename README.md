@@ -2,7 +2,7 @@
 
 ## Basic Details 
 
-Hey Everyone! I am Dhruv Aggarwal from New Delhi, India🇮🇳.
+Hey Everyone! I am Dhruv Aggarwal from New Delhi, India.
 
 ## Let's Connect!
 
